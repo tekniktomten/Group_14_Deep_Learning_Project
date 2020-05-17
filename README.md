@@ -1,0 +1,1 @@
+Here you can find our code. There were many different versions of the program used, but CODE.ipynb should give you a good overview. In Colab Noteboks/ there are some notebooks used and in Results/ we have saved the notebook (with the results) and its picture for most of the important runs.
